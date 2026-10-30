@@ -1,4 +1,4 @@
-# VoS: Variate Ordering Strategies for Skyline Query Optimization
+# VOS: Variate Ordering Strategies for Skyline Query Optimization
 
 This repository contains the implementation of VoS: Variate Ordering Strategies for Skyline Query Optimization.
 
